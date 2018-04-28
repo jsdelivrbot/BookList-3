@@ -1,8 +1,8 @@
 export default function() {
   return [
     { title: "Javascript: The Good Parts", pages: 101 },
-    { title: "Harry Potter", pages: 39 },
-    { title: "The Dark Tower", pages: 85 },
-    { title: "Eloquent Ruby", pages: 1 }
+    { title: "The Structure and Interpretation of Computer Programs", pages: 39 },
+    { title: "Outliers", pages: 85 },
+    { title: "Don't Make Me Think", pages: 1 }
   ];
 }
